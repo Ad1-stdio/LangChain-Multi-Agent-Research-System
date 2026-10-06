@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+streamlit>=1.0.0
+tavily-python
+beautifulsoup4>=4.12.0
+readability-lxml
+trafilatura
+requests>=2.31.0
+lxml>=5.0.0
+python-dotenv>=1.0.0
+rich>=13.7.0
