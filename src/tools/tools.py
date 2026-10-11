@@ -1,11 +1,10 @@
 import os 
 import requests
-from dotenv import load_dotenv
-from langchain_groq import ChatGroq
+
 
 from tavily import TavilyClient
-from langchain.agents import create_agent
 from langchain.tools import tool
+
 
 from rich import print
 
